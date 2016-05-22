@@ -1,7 +1,10 @@
 #jumbotron1 {
 	background-image: url("/images/pexels-photo-100883.jpeg");
+	background-repeat: cover;
+	margin: 0px;
 }
 
 #jumbotron2 {
 	background-color: grey;
+	margin: 0px;
 }
