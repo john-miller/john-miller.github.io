@@ -1,0 +1,38 @@
+#jumbotron1 {
+	background: url("file:///C:/Users/dev3/git/john-miller.github.io/images/pexels-photo-100883.jpeg") no-repeat center center fixed;
+	background-size: 100% auto;
+	background-attachment: scroll;
+	margin: 0px;
+	color: #fff;
+	text-shadow: 0px 0px 5px #000000;
+	border-bottom: 1px solid #616161;
+}
+
+#jumbotron2 {
+	border-bottom: 1px solid #616161;
+	background-color: #d3d3d3;
+	margin: 0px;
+}
+
+#jumbotron3 {
+    border-bottom: 1px solid #616161;
+	background-color: #838383;
+	margin: 0px;
+}
+
+#repositoryContainer {
+	border: 1px solid #c3c3c3;
+	border-radius: 10px;
+	background-color: #c0c0c0;
+	box-shadow: 0px 0px 3px #282828;
+	padding: 10px;
+}
+
+#repositoryTable {
+	border: 1px solid #c3c3c3;
+    border-radius: 10px;
+}
+
+.btn-drop-shadow {
+	box-shadow: 1px 1px 4px #282828;
+}
